@@ -1,0 +1,33 @@
+English A1 Vocabulary
+
+Hello = Merhaba
+
+Good morning = Günaydın
+
+Good evening = İyi akşamlar
+
+Thank you = Teşekkür ederim
+
+Please = Lütfen
+
+Goodbye = Hoşça kal
+
+Yes = Evet
+
+No = Hayır
+
+How are you? = Nasılsın?
+
+I am fine = İyiyim
+
+My name is... = Benim adım...
+
+I am a student = Ben öğrenciyim
+
+I live in Turkey = Türkiye'de yaşıyorum
+
+I like learning languages = Dil öğrenmeyi seviyorum
+
+I speak English = İngilizce konuşuyorum
+
+I speak a little English = Biraz İngilizce konuşuyorum

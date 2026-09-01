@@ -1,0 +1,88 @@
+-- SELAMLAŞMA VE VEDALAŞMA --
+Bonjour = Merhaba, İyi günler (Gün içinde kullanılır)
+Salut = Selam, Hoşça kal (Samimi kullanım)
+Bonsoir = İyi akşamlar
+Bonne nuit = İyi geceler
+Au revoir = Hoşça kal, Görüşmek üzere
+À bientôt = Yakında görüşürüz
+À demain = Yarın görüşürüz
+Merci = Teşekkür ederim
+Merci beaucoup = Çok teşekkür ederim
+De rien = Bir şey değil, Rica ederim
+S'il vous plaît = Lütfen (Nezaketli / Siz)
+S'il te plaît = Lütfen (Samimi / Sen)
+Oui = Evet
+Non = Hayır
+Pardon / Excusez-moi = Özür dilerim, Afedersiniz
+
+-- KENDİNİ TANITMA VE SOHBET --
+Comment ça va ? = Nasıl gidiyor? / Nasılsın?
+Ça va bien = İyiyim / İyi gidiyor
+Ça va mal = Kötüyüm / Kötü gidiyor
+Je m'appelle... = Benim adım...
+Comment vous vous appelez ? = Adınız nedir? (Nezaketli)
+Comment tu t'appelles ? = Adın ne? (Samimi)
+Enchanté = Memnun oldum
+Je suis étudiant = Ben öğrenciyim (Erkek)
+Je suis étudiante = Ben öğrenciyim (Kadın)
+J'habite en Turquie = Türkiye'de yaşıyorum
+Je parle turc = Türkçe konuşuyorum
+Je parle français = Fransızca konuşuyorum
+Je parle un peu français = Biraz Fransızca konuşuyorum
+
+-- TEMEL FİİLLER --
+être = olmak
+avoir = sahip olmak
+aller = gitmek
+faire = yapmak
+parler = konuşmak
+aimer = sevmek
+apprendre = öğrenmek
+étudier = ders çalışmak
+vouloir = istemek
+pouvoir = -ebilmek, yapabilmek
+
+-- KİŞİ ZAMİRLERİ --
+Je = Ben
+Tu = Sen
+Il = O (Erkek)
+Elle = O (Kadın)
+Nous = Biz
+Vous = Siz
+Ils = Onlar (Erkek)
+Elles = Onlar (Kadın)
+
+-- SAYILAR (0-20) --
+zero = 0 (sıfır)
+un = 1 (bir)
+deux = 2 (iki)
+trois = 3 (üç)
+quatre = 4 (dört)
+cinq = 5 (beş)
+six = 6 (altı)
+sept = 7 (yedi)
+huit = 8 (sekiz)
+neuf = 9 (dokuz)
+dix = 10 (on)
+onze = 11 (on bir)
+douze = 12 (on iki)
+treize = 13 (on üç)
+quatorze = 14 (on dört)
+quinze = 15 (on beş)
+seize = 16 (on altı)
+dix-sept = 17 (on yedi)
+dix-huit = 18 (on sekiz)
+dix-neuf = 19 (on dokuz)
+vingt = 20 (yirmi)
+
+-- GÜNLER VE ZAMAN --
+Lundi = Pazartesi
+Mardi = Salı
+Mercredi = Çarşamba
+Jeudi = Perşembe
+Vendredi = Cuma
+Samedi = Cumartesi
+Dimanche = Pazar
+Aujourd'hui = Bugün
+Demain = Yarın
+Hier = Dün

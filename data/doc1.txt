@@ -1,0 +1,4 @@
+Python, yorumlanan, yüksek seviyeli, genel amaçlı bir programlama dilidir.
+Guido van Rossum tarafından 1991 yılında oluşturulmuştur.
+Tasarım felsefesi, kod okunabilirliğine vurgu yapar.
+Python, nesne yönelimli, yapısal ve fonksiyonel programlama stillerini destekler.

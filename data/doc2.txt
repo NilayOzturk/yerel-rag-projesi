@@ -1,0 +1,4 @@
+Yapay zeka, makinelerin insan benzeri zeka görevlerini yerine getirmesini sağlayan teknolojidir.
+Makine öğrenmesi, yapay zekanın bir alt dalıdır.
+Derin öğrenme ise sinir ağlarına dayanır.
+Doğal dil işleme, yapay zekanın önemli bir uygulama alanıdır.
